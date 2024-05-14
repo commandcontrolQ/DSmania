@@ -9,7 +9,7 @@ endif
 # These set the information text in the nds file
 GAME_TITLE     := DSmania
 GAME_SUBTITLE1 := Stepmania clone
-GAME_SUBTITLE2 := qgerman2/dskooper
+GAME_SUBTITLE2 := commandcontrolQ
 
 include $(DEVKITARM)/ds_rules
 
