@@ -7,9 +7,9 @@ $(error "Please set DEVKITARM in your environment. export DEVKITARM=<path to>dev
 endif
 
 # These set the information text in the nds file
-GAME_TITLE     := dds
-GAME_SUBTITLE1 := a ddr clone
-GAME_SUBTITLE2 := github.com/qgerman2/dds
+GAME_TITLE     := DSmania
+GAME_SUBTITLE1 := Stepmania clone
+GAME_SUBTITLE2 := qgerman2/dskooper
 
 include $(DEVKITARM)/ds_rules
 
